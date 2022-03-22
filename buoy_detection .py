@@ -1,6 +1,7 @@
 """
-Bennet Outland
 Buoy Detection Algorithm
+Copyright (C) 2022  Bennet Outland (outlander1701)
+
 License: GNU General Public License v3.0
 
 Thank you to the creators of the OpenCV Docs for the great documentation and
@@ -8,7 +9,7 @@ example code that was modified to achieve these results. Additionally, the scrip
 https://github.com/makelove/OpenCV-Python-Tutorial/blob/master/ch25-%E6%96%91%E7%82%B9%E6%A3%80%E6%B5%8B/blob.py
 was used as a reference to fill some of the holes in the OpenCV documentation. That program contained the following copyright notice:
 
-MIT License
+"MIT License
 
 Copyright (c) 2017 makelove
 
@@ -30,7 +31,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This Software holds the following copyright notice seen on the Liscense posted to this repository.
+This Software holds the following copyright notice seen on the Liscense posted to this repository. "
 
 Input: USB Camera Video, Scaling Factor
 
